@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DF Google Steps Client</string>
+    <string name="no_steps_found">No steps records found</string>
+    <string name="steps_count_list">Steps Count List</string>
+    <string name="steps_prefix">Steps: </string>
+    <string name="earliest_last">Earliest Last</string>
+</resources>
